@@ -67,3 +67,7 @@ C:\Users\Morde\Programming\E-commerce app\skinet\API\bin\Debug\net7.0\runtimes\w
 C:\Users\Morde\Programming\E-commerce app\skinet\API\bin\Debug\net7.0\runtimes\win-arm64\native\e_sqlite3.dll
 C:\Users\Morde\Programming\E-commerce app\skinet\API\bin\Debug\net7.0\runtimes\win-x64\native\e_sqlite3.dll
 C:\Users\Morde\Programming\E-commerce app\skinet\API\bin\Debug\net7.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Morde\Programming\E-commerce app\skinet\api\bin\Debug\net7.0\Core.dll
+C:\Users\Morde\Programming\E-commerce app\skinet\api\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\Morde\Programming\E-commerce app\skinet\api\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\Morde\Programming\E-commerce app\skinet\api\bin\Debug\net7.0\Core.pdb

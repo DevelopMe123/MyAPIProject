@@ -2,7 +2,7 @@
 
 #nullable disable
 
-namespace API.Data.Migrations
+namespace Infrasctructure.Data.Migrations
 {
     /// <inheritdoc />
     public partial class Initial : Migration

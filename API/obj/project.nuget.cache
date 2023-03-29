@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4M/svrIN9QN+TxD+69fha/CU79W/Kxv+KMJg2pY0krpl3m6NfYu6jnCFdQKRph1KXl5jqyAR3DoiAgDgSwaI3g==",
+  "dgSpecHash": "0vyC0BrVqK5Vd5VicC//ZYqM/cGLz8UmIpa9ZOrTlgtQnUBpqykiVASpn8db8vFja+eykejTFFkLq+zwdmni4w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Morde\\Programming\\E-commerce app\\skinet\\API\\API.csproj",
+  "projectFilePath": "C:\\Users\\Morde\\Programming\\E-commerce app\\skinet\\api\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Morde\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Morde\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.4\\microsoft.aspnetcore.openapi.7.0.4.nupkg.sha512",
